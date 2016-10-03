@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#inner {
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    margin: 50px auto;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 5px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+h2 {
+    margin-left: 10px;
+}
